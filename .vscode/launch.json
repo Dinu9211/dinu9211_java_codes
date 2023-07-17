@@ -1,0 +1,218 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "another_prime",
+            "request": "launch",
+            "mainClass": "another_prime",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "boggle",
+            "request": "launch",
+            "mainClass": "boggle",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "check_number",
+            "request": "launch",
+            "mainClass": "check_number",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "circle_area",
+            "request": "launch",
+            "mainClass": "circle_area",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "countpath",
+            "request": "launch",
+            "mainClass": "countpath",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "even_odd",
+            "request": "launch",
+            "mainClass": "even_odd",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "horizontal_inplace_matrix",
+            "request": "launch",
+            "mainClass": "horizontal_inplace_matrix",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "largest_number",
+            "request": "launch",
+            "mainClass": "largest_number",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "max_sum_path",
+            "request": "launch",
+            "mainClass": "max_sum_path",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "mean_median",
+            "request": "launch",
+            "mainClass": "mean_median",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "multimpicationofmatrix",
+            "request": "launch",
+            "mainClass": "multimpicationofmatrix",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "other_boggle",
+            "request": "launch",
+            "mainClass": "other_boggle",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "prime_notprime",
+            "request": "launch",
+            "mainClass": "prime_notprime",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "read_number",
+            "request": "launch",
+            "mainClass": "read_number",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "rectangle_area",
+            "request": "launch",
+            "mainClass": "rectangle_area",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "rotate_matrix",
+            "request": "launch",
+            "mainClass": "rotate_matrix",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "simple_interest",
+            "request": "launch",
+            "mainClass": "simple_interest",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "singleinheritance",
+            "request": "launch",
+            "mainClass": "singleinheritance",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "transpoes_of_matrix",
+            "request": "launch",
+            "mainClass": "transpoes_of_matrix",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "transpos2",
+            "request": "launch",
+            "mainClass": "transpos2",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "vertical_inplace_matrix",
+            "request": "launch",
+            "mainClass": "vertical_inplace_matrix",
+            "projectName": "java_af0dc5b5"
+        },
+        {
+            "type": "java",
+            "name": "zero_matrix",
+            "request": "launch",
+            "mainClass": "zero_matrix",
+            "projectName": "java_af0dc5b5"
+        }
+    ]
+}
