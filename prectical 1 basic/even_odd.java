@@ -19,6 +19,7 @@ public class even_odd {
             else if(a>1){
                 System.out.println("Given no. is positive");
                 System.out.println("Given no. is positive");
+                System.out.println("Given no. is positive 223");
                 
             }
 
