@@ -22,7 +22,7 @@ public class even_odd {
                 System.out.println("Given no. is positive 223");
                 
             }
-
+            
         }
 
     }
